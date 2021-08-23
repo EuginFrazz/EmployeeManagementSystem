@@ -1,0 +1,36 @@
+.editfullbody{
+    width: 100%;
+    height: 100vh;
+}
+.editheading{
+    margin: 0;
+    width: 400px;
+    
+    
+}
+.editTextField{
+    width: 279px;
+    height: 48px;
+    font-size: 18px;
+    
+    
+
+}
+.edittextbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 62vh;
+    
+    
+
+}
+.editFormbox{
+    width: 400px;
+    margin-top: 15vh;
+    margin: 15vh auto 0;
+    border: 4px solid orangered;
+  
+}
+   

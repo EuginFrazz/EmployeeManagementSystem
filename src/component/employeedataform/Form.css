@@ -1,0 +1,32 @@
+.fullbody{
+    width: 100%;
+    height: 100vh;
+
+}
+.Formbox{
+    
+    width: 400px;
+    margin-top: 15vh;
+    margin: 15vh auto 0;
+    border: 4px solid blue;
+  
+
+}
+.heading{
+    margin: 0;
+    width: 400px;
+    
+
+}
+.textbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 62vh;
+
+}
+.TextField{
+    width: 279px;
+    
+}
